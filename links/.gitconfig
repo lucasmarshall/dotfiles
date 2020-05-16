@@ -1,0 +1,9 @@
+[user]
+	name = Robert Marshall
+	email = lucas.marshall@gmail.com
+[difftool]
+	prompt = false
+[mergetool]
+	prompt = false
+[core]
+	editor = code --wait
